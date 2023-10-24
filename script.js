@@ -2,13 +2,14 @@
 
 // Initialize Firebase with your project's config
 const firebaseConfig = {
-    apiKey: 'YOUR_API_KEY',
-    authDomain: 'YOUR_AUTH_DOMAIN',
-    databaseURL: 'YOUR_DATABASE_URL',
-    projectId: 'YOUR_PROJECT_ID',
-    storageBucket: 'YOUR_STORAGE_BUCKET',
-    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-    appId: 'YOUR_APP_ID',
+    apiKey: "AIzaSyBRdOPwbAWGR1Yb-caV-51CXffcLU4qUM8",
+  authDomain: "openchat-6fcee.firebaseapp.com",
+  databaseURL: "https://openchat-6fcee-default-rtdb.firebaseio.com",
+  projectId: "openchat-6fcee",
+  storageBucket: "openchat-6fcee.appspot.com",
+  messagingSenderId: "544517919099",
+  appId: "1:544517919099:web:c2647b22e13fc40b446dde",
+  measurementId: "G-E08XKJ79RN"
 };
 
 firebase.initializeApp(firebaseConfig);
